@@ -1,0 +1,8 @@
+lxml
+beautifulsoup4
+types-beautifulsoup4
+pyinstaller
+ujson
+types-ujson
+httpx
+rich
